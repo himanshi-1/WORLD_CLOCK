@@ -2,8 +2,10 @@
 
 # Description
     
-    1)  This World Clock App show the time data of diffrent country around the world so i have used WorldTime API to show the Time data in my App.
-        WorldTimeAPI is a simple web service which returns the local time for a given timezone. (is Currently in Daylight Savings time, when DST start and ends the UTC offset             etc.)The API returns JSON Adding a suffix of .txt to any API, url will return a plane_text response.
+    This World Clock App show the time data of diffrent country around the world so i have used WorldTime API
+    to show the Time data in my App. WorldTimeAPI is a simple web service which returns the local time for a given timezone.
+    (is Currently in Daylight Savings time, when DST start and ends the UTC offset etc.)The API returns JSON Adding a suffix
+    of .txt to any API, url will return a plane_text response.
     
  # Technology
  
